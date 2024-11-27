@@ -1,10 +1,10 @@
 
 ```markdown
-# Projets
+Projets
 
 Ce dépôt contient plusieurs projets, organisés en clients et serveurs, pour diverses fonctionnalités. Voici une description détaillée des projets.
 
-## Table des matières
+Table des matières
 
 1. [Projets "Calculator"](#projets-calculator)
 2. [Projets "Capitalise Message"](#projets-capitalise-message)
@@ -12,15 +12,15 @@ Ce dépôt contient plusieurs projets, organisés en clients et serveurs, pour d
 4. [Installation](#installation)
 
 
-## Projets "Calculator"
+Projets "Calculator"
 
-### 1. Calculator Client
+   1. Calculator Client
 - **Description** : Une application cliente qui communique avec un serveur pour effectuer des calculs.
 - **Fonctionnalités** :
   - Envoi des requêtes de calcul (addition, soustraction, multiplication, division).
   - Réception des résultats depuis le serveur.
 
-### 2. Calculator Server
+   2. Calculator Server
 - **Description** : Serveur qui reçoit et traite les requêtes de calculs envoyées par le client.
 - **Fonctionnalités** :
   - Traitement d'opérations mathématiques.
@@ -28,9 +28,9 @@ Ce dépôt contient plusieurs projets, organisés en clients et serveurs, pour d
 
 
 
-## Projets "Capitalise Message"
+   Projets "Capitalise Message"
 
-### 1. Capitalise Message Client
+   1. Capitalise Message Client
 - **Description** : Client permettant d'envoyer des messages au serveur pour les convertir en majuscules.
 - **Fonctionnalités** :
   - Envoi de messages texte.
@@ -39,29 +39,29 @@ Ce dépôt contient plusieurs projets, organisés en clients et serveurs, pour d
   - Input : `hello`
   - Output : `HELLO`
 
-### 2. Capitalise Message Server
+   2. Capitalise Message Server
 - **Description** : Serveur chargé de convertir les messages reçus en majuscules.
 - **Fonctionnalités** :
   - Traitement des messages envoyés par le client.
   - Renvoi des messages convertis en majuscules.
 
 
-## Projets "MyClient et MyClientServer"
+   Projets "MyClient et MyClientServer"
 
-### 1. MyClient
+   1. MyClient
 - **Description** : Une application cliente générique permettant de communiquer avec un serveur.
 - **Fonctionnalités** :
   - Envoi de requêtes simples au serveur.
   - Réception des réponses fournies par le serveur.
 
-### 2. MyClientServer
+   2. MyClientServer
 - **Description** : Serveur générique qui interagit avec MyClient.
 - **Fonctionnalités** :
   - Gestion des requêtes du client.
   - Réponse avec des données ou messages prédéfinis.
 
 
-## Installation
+ Installation
 
 1. Clonez ce dépôt :
    ```bash
