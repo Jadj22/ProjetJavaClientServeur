@@ -10,10 +10,7 @@ Ce dépôt contient plusieurs projets, organisés en clients et serveurs, pour d
 2. [Projets "Capitalise Message"](#projets-capitalise-message)
 3. [Projets "MyClient et MyClientServer"](#projets-myclient-et-myclientserver)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Contribution](#contribution)
 
----
 
 ## Projets "Calculator"
 
@@ -29,7 +26,7 @@ Ce dépôt contient plusieurs projets, organisés en clients et serveurs, pour d
   - Traitement d'opérations mathématiques.
   - Gestion des connexions des clients.
 
----
+
 
 ## Projets "Capitalise Message"
 
@@ -48,7 +45,6 @@ Ce dépôt contient plusieurs projets, organisés en clients et serveurs, pour d
   - Traitement des messages envoyés par le client.
   - Renvoi des messages convertis en majuscules.
 
----
 
 ## Projets "MyClient et MyClientServer"
 
@@ -64,7 +60,6 @@ Ce dépôt contient plusieurs projets, organisés en clients et serveurs, pour d
   - Gestion des requêtes du client.
   - Réponse avec des données ou messages prédéfinis.
 
----
 
 ## Installation
 
